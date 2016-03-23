@@ -20,7 +20,7 @@ app.on('ready', function() {
     width: 1280,
     height: 800,
     minWidth: 880,
-    minHeight: 310
+    minHeight: 400
   });
 
   mainWindow.setMenu(null); // Diable the Native Menu on Windows, use Context Menu inside the HTML.
